@@ -2,10 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate software enthusiast currently studying Creative Computing at IADT. I'm fascinated by the intersection of technology and creativity, and I love to explore innovative ways to bring ideas to life through code.
 
-## 🔭 What I'm Currently Working On
-
-I'm currently focused on a vampire survivors clone.
-
 ## 🌱 What I'm Learning
 
 In my studies, I'm diving deep into game development and design.
