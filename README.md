@@ -1,16 +1,21 @@
-### Hi there 👋
+# 👋 Hello, I'm Adam Gallagher
 
-<!--
-**AdamGallagher27/AdamGallagher27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software enthusiast currently studying Creative Computing at IADT. I'm fascinated by the intersection of technology and creativity, and I love to explore innovative ways to bring ideas to life through code.
 
-Here are some ideas to get you started:
+## 🔭 What I'm Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently focused on a vampire survivors clone.
+
+## 🌱 What I'm Learning
+
+In my studies, I'm diving deep into game development and design.
+
+- [Learning Goal 1]: Exploring and learning the ropes of the Godot game engine to gain valuable experience and create exciting projects.
+- [Learning Goal 2]: Enhancing programming skills through the study of GDScript.
+
+## 💬 Let's Connect
+
+I'm always open to collaborating on interesting projects. Feel free to reach out to me via:
+
+- 📧 Email: n00211418@iadt.ie
+- 💼 LinkedIn: [Adam Gallagher](www.linkedin.com/in/adam-gallagher-ba3830263)
