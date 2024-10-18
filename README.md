@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Adam Gallagher
+# 👋 Hello
 
-Welcome to my GitHub profile! I'm a passionate software enthusiast currently studying Creative Computing at IADT. I'm fascinated by the intersection of technology and creativity, and I love to explore innovative ways to bring ideas to life through code.
+Welcome to my GitHub profile! I'm a passionate software enthusiast currently studying Creative Computing. I'm fascinated by the intersection of technology and creativity, and I love to explore innovative ways to bring ideas to life through code.
 
 ## 🌱 What I'm Learning
 
@@ -13,5 +13,3 @@ In my studies, I'm diving deep into game development and design.
 
 I'm always open to collaborating on interesting projects. Feel free to reach out to me via:
 
-- 📧 Email: n00211418@iadt.ie
-- 💼 LinkedIn: [Adam Gallagher](www.linkedin.com/in/adam-gallagher-ba3830263)
